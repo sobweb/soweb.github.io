@@ -1,2 +1,2 @@
 # soweb.github.io
-the website for web design foe everyone
+the website for web design for everyone
